@@ -1,0 +1,19 @@
+<div class="paginaCompleta">
+    <div class="menu">
+        <h6>Livia Modas</h6>
+            <div class="produto" [routerLink]="['/T-shirt']" routerLinkActive="active">Camisas</div>
+            <div class="produto" [routerLink]="['/vestidos']" routerLinkActive="active">Vestidos</div>
+            <div class="produto" [routerLink]="['/shorts']" routerLinkActive="active">Shorts</div>
+            <div class="produto" [routerLink]="['/plussize']" routerLinkActive="active">Plussize</div>            
+            <div class="produto" [routerLink]="['/body']" routerLinkActive="active">Body</div>
+            <div class="produto" [routerLink]="['/blusa']" routerLinkActive="active">Blusa</div>
+            <div class="produto" [routerLink]="['/calca']" routerLinkActive="active">Calça</div>
+            <div class="produto" [routerLink]="['/acessorios']" routerLinkActive="active">Acessorios</div>
+            <div class="produto" [routerLink]="['/cropped']" routerLinkActive="active">Cropped</div>
+            <div class="produto" [routerLink]="['/Jaqueta']" routerLinkActive="active">Jaqueta</div>
+    </div>
+    <div class="produtos">
+        <app-vestidos></app-vestidos>
+        <router-outlet></router-outlet>
+    </div>
+</div>
