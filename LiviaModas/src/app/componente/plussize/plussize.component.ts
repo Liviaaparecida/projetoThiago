@@ -9,44 +9,44 @@ export class PlussizeComponent implements OnInit {
 
   roupas:any = [
     {
-      img:'assets/vestido/v1.jpg',
-      produto: 'Vestido liso alça fina'
+      img:'assets/plussize/p1.jpg',
+      produto: 'Conjunto Luxo'
     },
     {
-      img:'assets/vestido/v2.jpg',
-      produto: 'Vestido florido ombreira'
+      img:'assets/plussize/p2.jpg',
+      produto: 'Body babado '
     },
     {
-      img:'assets/vestido/v3.jpg',
-      produto: 'Vestido florido rosas manga longa'
+      img:'assets/plussize/p3.jpg',
+      produto: 'Calça Jeans Branca'
     },
     {
-      img:'assets/vestido/v4.jpg',
-      produto: 'Vestido rosas sem manga'
+      img:'assets/plussize/p4.jpg',
+      produto: 'Vestido florido azul'
     },
     {
-      img:'assets/vestido/v5.jpg',
-      produto: 'Vestido liso com gola'
+      img:'assets/plussize/p5.jpg',
+      produto: 'Vestido preto com bolinhas'
     },
     {
-      img:'assets/vestido/v6.jpg',
-      produto: 'Vestido liso costas aberto'
+      img:'assets/plussize/p6.jpg',
+      produto: 'Macacão Jeans'
     },
     {
-      img:'assets/vestido/v7.jpg',
-      produto: 'Vestido Festa com fenda'
+      img:'assets/plussize/p7.jpg',
+      produto: 'Vestido Festa florido'
     },
     {
-      img:'assets/vestido/v8.jpg',
-      produto: 'Vestido Festa alça fina'
+      img:'assets/plussize/p8.jpg',
+      produto: 'Camisa estampada'
     },
     {
-      img:'assets/vestido/v9.jpg',
-      produto: 'Vestido estampado longo'
+      img:'assets/plussize/p9.jpg',
+      produto: 'Camisa preta Festa'
     },
     {
-      img:'assets/vestido/v10.jpg',
-      produto: 'Vestido liso tomara que caia'
+      img:'assets/plussize/p10.jpg',
+      produto: 'Calça lag preta'
     },
   ]
   

@@ -9,44 +9,44 @@ export class ShortsComponent implements OnInit {
 
   roupas:any = [
     {
-      img:'assets/vestido/v1.jpg',
-      produto: 'Vestido liso alça fina'
+      img:'assets/short/s1.jpg',
+      produto: 'Jeans casual'
     },
     {
-      img:'assets/vestido/v2.jpg',
-      produto: 'Vestido florido ombreira'
+      img:'assets/short/s2.jpg',
+      produto: 'Short liso '
     },
     {
-      img:'assets/vestido/v3.jpg',
-      produto: 'Vestido florido rosas manga longa'
+      img:'assets/short/s3.jpg',
+      produto: 'Short festa fenda lateral'
     },
     {
-      img:'assets/vestido/v4.jpg',
-      produto: 'Vestido rosas sem manga'
+      img:'assets/short/s4.jpg',
+      produto: 'Short moleton casual'
     },
     {
-      img:'assets/vestido/v5.jpg',
-      produto: 'Vestido liso com gola'
+      img:'assets/short/s5.jpg',
+      produto: 'Short seda'
     },
     {
-      img:'assets/vestido/v6.jpg',
-      produto: 'Vestido liso costas aberto'
+      img:'assets/short/s6.jpg',
+      produto: 'Short liso casual'
     },
     {
-      img:'assets/vestido/v7.jpg',
-      produto: 'Vestido Festa com fenda'
+      img:'assets/short/s7.jpg',
+      produto: 'Short Jeans babado'
     },
     {
-      img:'assets/vestido/v8.jpg',
-      produto: 'Vestido Festa alça fina'
+      img:'assets/short/s8.jpg',
+      produto: 'Short Jeans lixa'
     },
     {
-      img:'assets/vestido/v9.jpg',
-      produto: 'Vestido estampado longo'
+      img:'assets/short/s9.jpg',
+      produto: 'Short esportivo'
     },
     {
-      img:'assets/vestido/v10.jpg',
-      produto: 'Vestido liso tomara que caia'
+      img:'assets/short/s10.jpg',
+      produto: 'Short casual laço'
     },
   ]
   

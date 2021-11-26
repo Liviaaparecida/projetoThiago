@@ -9,44 +9,44 @@ export class CamisasComponent implements OnInit {
 
   roupas:any = [
     {
-      img:'assets/vestido/v1.jpg',
-      produto: 'Vestido liso alça fina'
+      img:'assets/T-shirt/t1.jpg',
+      produto: 'Camisa estanpada Tigre'
     },
     {
-      img:'assets/vestido/v2.jpg',
-      produto: 'Vestido florido ombreira'
+      img:'assets/T-shirt/t2.jpg',
+      produto: 'Camisa estanpada Gratidão'
     },
     {
-      img:'assets/vestido/v3.jpg',
-      produto: 'Vestido florido rosas manga longa'
+      img:'assets/T-shirt/t3.jpg',
+      produto: 'Camisa Listrada'
     },
     {
-      img:'assets/vestido/v4.jpg',
-      produto: 'Vestido rosas sem manga'
+      img:'assets/T-shirt/t4.jpg',
+      produto: 'Camisa COLCCI'
     },
     {
-      img:'assets/vestido/v5.jpg',
-      produto: 'Vestido liso com gola'
+      img:'assets/T-shirt/t5.jpg',
+      produto: 'Better Woman'
     },
     {
-      img:'assets/vestido/v6.jpg',
-      produto: 'Vestido liso costas aberto'
+      img:'assets/T-shirt/t6.jpg',
+      produto: 'Camisa Ela'
     },
     {
-      img:'assets/vestido/v7.jpg',
-      produto: 'Vestido Festa com fenda'
+      img:'assets/T-shirt/t7.jpg',
+      produto: 'Camisa Catfish'
     },
     {
-      img:'assets/vestido/v8.jpg',
-      produto: 'Vestido Festa alça fina'
+      img:'assets/T-shirt/t8.jpg',
+      produto: 'Camisa Lisa'
     },
     {
-      img:'assets/vestido/v9.jpg',
-      produto: 'Vestido estampado longo'
+      img:'assets/T-shirt/t9.jpg',
+      produto: 'FEMINIST'
     },
     {
-      img:'assets/vestido/v10.jpg',
-      produto: 'Vestido liso tomara que caia'
+      img:'assets/T-shirt/t10.jpg',
+      produto: 'Camisa caveira'
     },
   ]
   

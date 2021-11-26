@@ -9,44 +9,44 @@ export class AcessoriosComponent implements OnInit {
 
   roupas:any = [
     {
-      img:'assets/vestido/v1.jpg',
-      produto: 'Vestido liso alça fina'
+      img:'assets/acessorios/bo1.jpg',
+      produto: 'Bolsa chanel branca'
     },
     {
-      img:'assets/vestido/v2.jpg',
-      produto: 'Vestido florido ombreira'
+      img:'assets/acessorios/bo2.jpg',
+      produto: 'Bolsa grande rosa'
     },
     {
-      img:'assets/vestido/v3.jpg',
-      produto: 'Vestido florido rosas manga longa'
+      img:'assets/acessorios/bo3.jpg',
+      produto: 'Bolsa festa branca'
     },
     {
-      img:'assets/vestido/v4.jpg',
-      produto: 'Vestido rosas sem manga'
+      img:'assets/acessorios/bo4.jpg',
+      produto: 'Bolsa festa black'
     },
     {
-      img:'assets/vestido/v5.jpg',
-      produto: 'Vestido liso com gola'
+      img:'assets/acessorios/bo5.jpg',
+      produto: 'Bolsa festa preta'
     },
     {
-      img:'assets/vestido/v6.jpg',
-      produto: 'Vestido liso costas aberto'
+      img:'assets/acessorios/col10.jpg',
+      produto: 'Colar de corações'
     },
     {
-      img:'assets/vestido/v7.jpg',
-      produto: 'Vestido Festa com fenda'
+      img:'assets/acessorios/re6.jpg',
+      produto: 'Relógio Ouro'
     },
     {
-      img:'assets/vestido/v8.jpg',
-      produto: 'Vestido Festa alça fina'
+      img:'assets/acessorios/re7.jpg',
+      produto: 'Relógio Cristal'
     },
     {
-      img:'assets/vestido/v9.jpg',
-      produto: 'Vestido estampado longo'
+      img:'assets/acessorios/re8.jpg',
+      produto: 'Relógio Xiaomi digital'
     },
     {
-      img:'assets/vestido/v10.jpg',
-      produto: 'Vestido liso tomara que caia'
+      img:'assets/acessorios/to9.jpg',
+      produto: 'Tocas de lã'
     },
   ]
   
