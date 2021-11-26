@@ -9,44 +9,35 @@ export class CroppedComponent implements OnInit {
 
   roupas:any = [
     {
-      img:'assets/vestido/v1.jpg',
-      produto: 'Vestido liso alça fina'
-    },
-    {
-      img:'assets/vestido/v2.jpg',
-      produto: 'Vestido florido ombreira'
-    },
-    {
-      img:'assets/vestido/v3.jpg',
-      produto: 'Vestido florido rosas manga longa'
-    },
-    {
-      img:'assets/vestido/v4.jpg',
-      produto: 'Vestido rosas sem manga'
-    },
-    {
-      img:'assets/vestido/v5.jpg',
-      produto: 'Vestido liso com gola'
-    },
-    {
-      img:'assets/vestido/v6.jpg',
-      produto: 'Vestido liso costas aberto'
-    },
-    {
-      img:'assets/vestido/v7.jpg',
-      produto: 'Vestido Festa com fenda'
-    },
-    {
-      img:'assets/vestido/v8.jpg',
-      produto: 'Vestido Festa alça fina'
-    },
-    {
-      img:'assets/vestido/v9.jpg',
-      produto: 'Vestido estampado longo'
-    },
-    {
-      img:'assets/vestido/v10.jpg',
-      produto: 'Vestido liso tomara que caia'
+      img:'assets/cropped/cr1.jpg',
+      produto: 'Cropped liso alça fina'
+    },    {
+      img:'assets/cropped/cr2.jpg',
+      produto: 'Cropped meia manga'
+    },    {
+      img:'assets/cropped/cr3.jpg',
+      produto: 'Cropped Xadres'
+    },    {
+      img:'assets/cropped/cr4.jpg',
+      produto: 'Cropped estampado new york'
+    },    {
+      img:'assets/cropped/cr5.jpg',
+      produto: 'Cropped ombreira preto'
+    },    {
+      img:'assets/cropped/cr6.jpg',
+      produto: 'Cropped estampado flores'
+    },    {
+      img:'assets/cropped/cr7.jpg',
+      produto: 'Cropped liso'
+    },    {
+      img:'assets/cropped/cr8.jpg',
+      produto: 'Cropped liso alça fina'
+    },    {
+      img:'assets/cropped/cr9.jpg',
+      produto: 'Cropped estampado dragões'
+    },    {
+      img:'assets/cropped/cr10.jpg',
+      produto: 'Cropped estampado simples'
     },
   ]
   

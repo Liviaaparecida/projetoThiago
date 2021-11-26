@@ -9,44 +9,44 @@ export class CalcaComponent implements OnInit {
 
   roupas:any = [
     {
-      img:'assets/vestido/v1.jpg',
-      produto: 'Vestido liso alça fina'
+      img:'assets/calca/c1.jpg',
+      produto: 'Calça Jeans rasgado'
     },
     {
-      img:'assets/vestido/v2.jpg',
-      produto: 'Vestido florido ombreira'
+      img:'assets/calca/c2.jpg',
+      produto: 'Calça preta linha branca'
     },
     {
-      img:'assets/vestido/v3.jpg',
-      produto: 'Vestido florido rosas manga longa'
+      img:'assets/calca/c3.jpg',
+      produto: 'Calça vermelha xadres'
     },
     {
-      img:'assets/vestido/v4.jpg',
-      produto: 'Vestido rosas sem manga'
+      img:'assets/calca/c4.jpg',
+      produto: 'Calça social azul'
     },
     {
-      img:'assets/vestido/v5.jpg',
-      produto: 'Vestido liso com gola'
+      img:'assets/calca/c5.jpg',
+      produto: 'Calça escoteiro caqui'
     },
     {
-      img:'assets/vestido/v6.jpg',
-      produto: 'Vestido liso costas aberto'
+      img:'assets/calca/c6.jpg',
+      produto: 'Calça preta folgada'
     },
     {
-      img:'assets/vestido/v7.jpg',
-      produto: 'Vestido Festa com fenda'
+      img:'assets/calca/c7.jpg',
+      produto: 'Calça vermelha festa'
     },
     {
-      img:'assets/vestido/v8.jpg',
-      produto: 'Vestido Festa alça fina'
+      img:'assets/calca/c8.jpg',
+      produto: 'Calça social'
     },
     {
-      img:'assets/vestido/v9.jpg',
-      produto: 'Vestido estampado longo'
+      img:'assets/calca/c9.jpg',
+      produto: 'Calça verde oliva cintura alta'
     },
     {
-      img:'assets/vestido/v10.jpg',
-      produto: 'Vestido liso tomara que caia'
+      img:'assets/calca/c10.jpg',
+      produto: 'Calça festa preta'
     },
   ]
   

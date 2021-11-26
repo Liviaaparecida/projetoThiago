@@ -9,44 +9,44 @@ export class BodyComponent implements OnInit {
 
   roupas:any = [
     {
-      img:'assets/vestido/v1.jpg',
-      produto: 'Vestido liso alça fina'
+      img:'assets/body/b1.jpg',
+      produto: 'Body casual alça dupla estilizada cores'
     },
     {
-      img:'assets/vestido/v2.jpg',
-      produto: 'Vestido florido ombreira'
+      img:'assets/body/b2.jpg',
+      produto: 'Body casual alça fina preta'
     },
     {
-      img:'assets/vestido/v3.jpg',
-      produto: 'Vestido florido rosas manga longa'
+      img:'assets/body/b3.jpg',
+      produto: 'Body festa manga longa azul'
     },
     {
-      img:'assets/vestido/v4.jpg',
-      produto: 'Vestido rosas sem manga'
+      img:'assets/body/b4.jpg',
+      produto: 'Body casual alça fina cores'
     },
     {
-      img:'assets/vestido/v5.jpg',
-      produto: 'Vestido liso com gola'
+      img:'assets/body/b5.jpg',
+      produto: 'Body estampado flores '
     },
     {
-      img:'assets/vestido/v6.jpg',
-      produto: 'Vestido liso costas aberto'
+      img:'assets/body/b6.jpg',
+      produto: 'Body social manga longa branco'
     },
     {
-      img:'assets/vestido/v7.jpg',
-      produto: 'Vestido Festa com fenda'
+      img:'assets/body/b7.jpg',
+      produto: 'Body renda preta'
     },
     {
-      img:'assets/vestido/v8.jpg',
-      produto: 'Vestido Festa alça fina'
+      img:'assets/body/b8.jpg',
+      produto: 'Body social preto '
     },
     {
-      img:'assets/vestido/v9.jpg',
-      produto: 'Vestido estampado longo'
+      img:'assets/body/b9.jpg',
+      produto: 'Body preto manga longa'
     },
     {
-      img:'assets/vestido/v10.jpg',
-      produto: 'Vestido liso tomara que caia'
+      img:'assets/body/b10.jpg',
+      produto: 'Body renda azul'
     },
   ]
   

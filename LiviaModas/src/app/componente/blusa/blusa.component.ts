@@ -9,45 +9,45 @@ export class BlusaComponent implements OnInit {
 
   roupas:any = [
     {
-      img:'assets/vestido/v1.jpg',
-      produto: 'Vestido liso alça fina'
+      img:'assets/blusa/bl1.jpg',
+      produto: 'Blusa rosa com capuz'
     },
     {
-      img:'assets/vestido/v2.jpg',
-      produto: 'Vestido florido ombreira'
+      img:'assets/blusa/bl2.jpg',
+      produto: 'Blusa ziper diagonal com capuz'
     },
     {
-      img:'assets/vestido/v3.jpg',
-      produto: 'Vestido florido rosas manga longa'
+      img:'assets/blusa/bl3.jpg',
+      produto: 'Blusa preta ziper'
     },
     {
-      img:'assets/vestido/v4.jpg',
-      produto: 'Vestido rosas sem manga'
+      img:'assets/blusa/bl4.jpg',
+      produto: 'Blusa vinho lisa'
     },
     {
-      img:'assets/vestido/v5.jpg',
-      produto: 'Vestido liso com gola'
+      img:'assets/blusa/bl5.jpg',
+      produto: 'Blusa rosa flor bordada'
     },
     {
-      img:'assets/vestido/v6.jpg',
-      produto: 'Vestido liso costas aberto'
+      img:'assets/blusa/bl6.jpg',
+      produto: 'Blusa cinza ziper com capuz'
     },
     {
-      img:'assets/vestido/v7.jpg',
-      produto: 'Vestido Festa com fenda'
+      img:'assets/blusa/bl7.jpg',
+      produto: 'Blusa social vermelha'
     },
     {
-      img:'assets/vestido/v8.jpg',
-      produto: 'Vestido Festa alça fina'
+      img:'assets/blusa/bl8.jpg',
+      produto: 'Blusa adidas preta'
     },
     {
-      img:'assets/vestido/v9.jpg',
-      produto: 'Vestido estampado longo'
+      img:'assets/blusa/bl9.jpg',
+      produto: 'Blusa cinza fina'
     },
     {
-      img:'assets/vestido/v10.jpg',
-      produto: 'Vestido liso tomara que caia'
-    },
+      img:'assets/blusa/bl10.jpg',
+      produto: 'Blusa marrom '
+    },    
   ]
   
   constructor() { }

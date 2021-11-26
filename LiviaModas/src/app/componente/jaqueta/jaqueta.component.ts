@@ -9,44 +9,44 @@ export class JaquetaComponent implements OnInit {
 
   roupas:any = [
     {
-      img:'assets/vestido/v1.jpg',
-      produto: 'Vestido liso alça fina'
+      img:'assets/jaqueta/j1.jpg',
+      produto: 'Jaqueta couro preto ziper'
     },
     {
-      img:'assets/vestido/v2.jpg',
-      produto: 'Vestido florido ombreira'
+      img:'assets/jaqueta/j2.jpg',
+      produto: 'Jaqueta acolchoada inverno pesado'
     },
     {
-      img:'assets/vestido/v3.jpg',
-      produto: 'Vestido florido rosas manga longa'
+      img:'assets/jaqueta/j3.jpg',
+      produto: 'Jaqueta Jeans botões'
     },
     {
-      img:'assets/vestido/v4.jpg',
-      produto: 'Vestido rosas sem manga'
+      img:'assets/jaqueta/j4.jpg',
+      produto: 'Jaqueta rosa ziper'
     },
     {
-      img:'assets/vestido/v5.jpg',
-      produto: 'Vestido liso com gola'
+      img:'assets/jaqueta/j5.jpg',
+      produto: 'Jaqueta corta vento preta'
     },
     {
-      img:'assets/vestido/v6.jpg',
-      produto: 'Vestido liso costas aberto'
+      img:'assets/jaqueta/j6.jpg',
+      produto: 'Jaqueta preto camurça'
     },
     {
-      img:'assets/vestido/v7.jpg',
-      produto: 'Vestido Festa com fenda'
+      img:'assets/jaqueta/j7.jpg',
+      produto: 'Jaqueta acolchoada roxa'
     },
     {
-      img:'assets/vestido/v8.jpg',
-      produto: 'Vestido Festa alça fina'
+      img:'assets/jaqueta/j8.jpg',
+      produto: 'Jaqueta social trabalho'
     },
     {
-      img:'assets/vestido/v9.jpg',
-      produto: 'Vestido estampado longo'
+      img:'assets/jaqueta/j9.jpg',
+      produto: 'Jaqueta acolchoada ziper'
     },
     {
-      img:'assets/vestido/v10.jpg',
-      produto: 'Vestido liso tomara que caia'
+      img:'assets/jaqueta/j10.jpg',
+      produto: 'Jaqueta corta vento montanha vermelha'
     },
   ]
   
