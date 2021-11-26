@@ -14,6 +14,7 @@ import { CalcaComponent } from './componente/calca/calca.component';
 import { AcessoriosComponent } from './componente/acessorios/acessorios.component';
 import { CroppedComponent } from './componente/cropped/cropped.component';
 import { JaquetaComponent } from './componente/jaqueta/jaqueta.component';
+import { InicioLojaComponent } from './inicio-loja/inicio-loja.component';
 
 @NgModule({
   declarations: [
@@ -28,7 +29,8 @@ import { JaquetaComponent } from './componente/jaqueta/jaqueta.component';
     CalcaComponent,
     AcessoriosComponent,
     CroppedComponent,
-    JaquetaComponent
+    JaquetaComponent,
+    InicioLojaComponent
   ],
   imports: [
     BrowserModule,

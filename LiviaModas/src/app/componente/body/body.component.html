@@ -1,1 +1,14 @@
-<p>body works!</p>
+<div class="container">
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a [routerLink]="['/inicio']" routerLinkActive="active">Inicio</a></li>
+            <li class="breadcrumb-item" [routerLink]="['/vestidos']" routerLinkActive="active">Vestidos</li>
+        </ol>
+    </nav>
+</div>
+<div class="container justify-content-arond">
+    <div class="card cardSpace" *ngFor="let roupa of roupas">
+        <img [src]="roupa.img" alt="imagem Produto">
+        <h4> {{roupa.produto}} </h4>
+    </div>
+</div>
