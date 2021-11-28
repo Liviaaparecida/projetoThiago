@@ -7,7 +7,7 @@ describe('BlusaComponent', () => {
   let fixture: ComponentFixture<BlusaComponent>;
 
   beforeEach(async () => {
-    await TestBed.configureTestingModule({
+    await TestBed.configureTestingModule({ 
       declarations: [ BlusaComponent ]
     })
     .compileComponents();
